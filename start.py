@@ -6,7 +6,7 @@ def get_start_widget(appbase, jupbase, notebase):
         f"""
     <div align="center">
         <a href="{appbase}/coffee.ipynb" target="_blank">
-            <img src="https://gitlab.com/QEF/q-e/raw/develop/logo.jpg" height="120px" width=243px">
+            <img src="https://github.com/nanotech-empa/aiidalab-nanotech-coffee/blob/main/logo.jpg?raw=true" height="120px" width=243px">
         </a>
     </div>"""
     )
